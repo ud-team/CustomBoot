@@ -1,0 +1,9 @@
+Package: tk.udteam.customboot
+Name: CustomBoot
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: UD Team
+Author: UD Team
+Section: Tweaks
