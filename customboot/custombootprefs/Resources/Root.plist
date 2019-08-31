@@ -18,12 +18,12 @@
 			<key>defaults</key>
 			<string>com.udteam.custombootprefs</string>
 			<key>key</key>
-			<string>AwesomeSwitch1</string>
+			<string>areWeOn</string>
 			<key>label</key>
-			<string>Awesome Switch 1</string>
+			<string>Enable/Disable Tweak</string>
 		</dict>
 	</array>
 	<key>title</key>
-	<string>CustomBootPrefs</string>
+	<string>CustomBoot</string>
 </dict>
 </plist>
