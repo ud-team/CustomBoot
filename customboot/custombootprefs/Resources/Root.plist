@@ -16,14 +16,22 @@
 			<key>default</key>
 			<true/>
 			<key>defaults</key>
-			<string>com.udteam.custombootprefs</string>
+			<string>tk.udteam.custombootprefs</string>
 			<key>key</key>
 			<string>areWeOn</string>
 			<key>label</key>
-			<string>Enable/Disable Tweak</string>
+			<string>Enable/Disable Custom Boot Logo</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>key</key>
+			<string>githubButton</string>
+			<key>label</key>
+			<string>Check this project out on Github!</string>
 		</dict>
 	</array>
 	<key>title</key>
-	<string>CustomBoot</string>
+	<string>CustomBootPrefs</string>
 </dict>
 </plist>
