@@ -1,9 +1,9 @@
 Package: tk.ud-team.CustomBoot
-Name: ClassicAppleBoot
+Name: CustomBoot
 Version: 0.1.0
 Architecture: iphoneos-arm
 Description: A simple tweak to change your boot logo.
-Depiction: https://ud-team.github.io/repo/depictions/ClassicAppleBoot.html
+Depiction: https://ud-team.github.io/repo/depictions/CustomBoot.html
 Homepage: https://ud-team.github.io/
 Maintainer: Flipp3rrr <flipp3rrr@protonmail.com>
 Author: Flipp3rrr <flipp3rrr@protonmail.com>
